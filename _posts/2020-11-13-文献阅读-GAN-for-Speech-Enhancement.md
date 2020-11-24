@@ -157,7 +157,7 @@ Blizzard Challenge 2011
 
 由于这篇文章的目的是对TTS合成谱做增强，所以文中还提出了一个prior acoustic model，这里不详说
 
-### TIME-FREQUENCY MASKING-BASED SPEECH ENHANCEMENT USING GENERATIVE ADVERSARIAL NETWORK
+### Time-Frequency Masking-Based Speech Enhancement Using Generative Adversarial Network
 
 > ICASSP 2018
 >
@@ -481,7 +481,7 @@ TIMIT corpus and NOISEX-92 corpus
 
 空洞卷积，然后可能实验做得比较好吧
 
-### CP-GAN: CONTEXT PYRAMID GENERATIVE ADVERSARIAL NETWORK FOR SPEECH ENHANCEMENT
+### CP-GAN: Context Pyramid Generative Adversarial Network For Speech Enhancementx	
 
 > ICASSP 2020
 >
